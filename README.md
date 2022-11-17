@@ -1,5 +1,5 @@
 
-![Logo-nav](https://user-images.githubusercontent.com/109285740/200904587-4876298e-9a2b-4732-9569-db4da18d4b86.png)
+![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
 # Kalvium Lab | JS SMART PHONE
 
