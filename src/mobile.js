@@ -1,24 +1,15 @@
-//SmartPhone
+// Progression 1 SmartPhone
 
-class SmartPhone{
-  }
+class SmartPhone {}
 
-// AndroidPhone
+// Progression 2 AndroidPhone
 
-class AndroidPhone extends SmartPhone {
+class AndroidPhone extends SmartPhone {}
 
-  }
+// Progression 3 IPhone
 
+class IPhone extends SmartPhone {}
 
-// IPhone
+// Progression 4  Progression 1 MobileCampus
 
-class IPhone extends SmartPhone {
-  
-  }
-
-
-//MobileCampus
-
-class MobileCampus{
-  
-  }
+class MobileCampus {}
